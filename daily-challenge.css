@@ -1,0 +1,22 @@
+p {
+    color: #e0115f;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  h1 {
+    color: aquamarine;
+    text-align: center;
+    background-color: purple;
+  }
+  a {
+    color: green;
+    text-decoration: none;
+  }
+  a:visited {
+    color: inherit;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: aquamarine;
+    /* cursor: move; */
+  }
