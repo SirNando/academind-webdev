@@ -1,0 +1,21 @@
+body {
+  margin: 50px;
+}
+
+img {
+  width: 500;
+  height: 500px;
+  border-radius: 250px;
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Roboto Mono", monospace;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h1 {
+  font-family: "Comic Neue";
+  color: rgb(234, 186, 16);
+}

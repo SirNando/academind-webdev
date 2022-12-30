@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: rgb(150, 29, 17);
+    margin: 50px;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(234, 186, 16);;
+}

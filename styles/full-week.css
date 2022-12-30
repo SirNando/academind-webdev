@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: rgb(150, 29, 17);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(234, 186, 16);
+}
+
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Roboto Mono", monospace;
+  font-weight: bold;
+  font-size: 30px;
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rebeccapurple;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: aquamarine;
+  /* cursor: move; */
+}
