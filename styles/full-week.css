@@ -1,31 +1,49 @@
-body {
-  text-align: center;
-  background-color: rgb(150, 29, 17);
-  margin: 50px;
-}
-
 h1 {
-  font-family: "Oswald", sans-serif;
-  color: rgb(234, 186, 16);
+  margin: 9px;
+}
+h2 {
+  margin: 2px;
+}
+header p {
+  margin-bottom: 36px;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family: "Roboto Mono", monospace;
+  font-weight: bold;
+  font-size: 24px;
+}
+a {
+  background-color: rgb(167, 1, 78);
+  color: white;
+  text-decoration: none;
+  border: 3px solid rgb(167, 1, 78);
+  border-radius: 8px;
+  padding: 12px;
 }
 
-p {
+a:hover {
+  text-decoration: none;
+  background-color: rgb(180, 12, 90);
+}
+ol {
+  list-style: none;
+  width: 600px;
+  margin: 0 auto 30px auto;
+  padding: 0;
+}
+li {
+  background-color: pink;
+  color: rgb(87, 87, 87);
+  border-radius: 8px;
+  margin: 5px auto 5px auto;
+}
+#main-text {
   color: rgb(0, 0, 0);
   font-family: "Roboto Mono", monospace;
   font-weight: bold;
   font-size: 30px;
 }
-a {
-  color: green;
-  text-decoration: none;
-}
-
-a:visited {
-  color: rebeccapurple;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: aquamarine;
-  /* cursor: move; */
+#description {
+  margin-bottom: 36px;
 }
