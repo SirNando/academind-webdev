@@ -2,7 +2,7 @@ h1 {
   margin: 9px;
 }
 h2 {
-  margin: 2px;
+  margin: 15px auto;
 }
 header p {
   margin-bottom: 36px;
@@ -12,6 +12,7 @@ p {
   font-family: "Roboto Mono", monospace;
   font-weight: bold;
   font-size: 24px;
+  margin: 15px auto;
 }
 a {
   background-color: rgb(167, 1, 78);
@@ -36,14 +37,13 @@ li {
   background-color: pink;
   color: rgb(87, 87, 87);
   border-radius: 8px;
-  margin: 5px auto 5px auto;
+  margin: 30px auto 30px auto;
+  padding: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
 }
 #main-text {
   color: rgb(0, 0, 0);
   font-family: "Roboto Mono", monospace;
   font-weight: bold;
   font-size: 30px;
-}
-#description {
-  margin-bottom: 36px;
 }
